@@ -1,17 +1,17 @@
 
 import './App.css';
-
-import Register from './component/Register';
-
-
+import Mainpage from './component/Mainpage';
+import { BrowserRouter } from "react-router-dom";
 
 function App() {
+
+
   return (
     <div className="App">
-      
-  
-    <Register/>
-   
+      <BrowserRouter>
+         <Mainpage/>
+      </BrowserRouter>
+
     </div>
   );
 }

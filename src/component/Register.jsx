@@ -30,7 +30,7 @@ const Register = () => {
            <div className=' grid grid-cols-1 md:grid-cols-2 px-3 '>
                 <div className=' flex justify-center items-center p-7'>
                     <div className=' block'>
-                        <img className=' w-56 drop-shadow-md md:w-80 ' src='./image/atlogoforlogin.png' alt=''/>
+                        <img className=' w-56 drop-shadow-md md:w-80 ' src='./image/atlogoforlogin.png' alt='Alpha Tech '/>
                         <h5 className=' ml-14 md:ml-20 md:text-lg text-xs text-gray-500'>Create New Account</h5>
                         
                     </div>
